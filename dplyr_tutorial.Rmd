@@ -19,7 +19,7 @@ When working with data you must:
 
 * Describe those tasks in the form of a computer program.
 
-* Execute the program.
+* Execute the programmer.
 
 The dplyr package makes these steps fast and easy:
 
