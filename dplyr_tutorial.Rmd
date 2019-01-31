@@ -63,7 +63,7 @@ Dplyr aims to provide a function for each basic verb of data manipulation:
 For example, we can select all flights on January 1st with:
 
 ```{r}
-filter()
+filter(flights, time_hour == "2013-01-01 05:00:00")
 ```
 
 Do the equivalent in base R code:
