@@ -33,7 +33,7 @@ All team members:
 4.  Push your branch to github.
 5.  Compare your branch to your team mates via pull requests.
 6.  Resolve any conflicts and merge your answer branches into one.
-7.  Compare this to the dplyr-solutions branch.
+7.  Compare this to the dplyr_solutions branch.
 8.  Resolve any conflicts and merge into one branch.
 9.  Fetch the upstream repo to see if anything has changed.
 10. Merge your branch into the master branch in your fork, rebase if necessary.
